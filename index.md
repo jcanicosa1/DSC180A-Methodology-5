@@ -1,5 +1,6 @@
 Jenna Canicosa (jcanicosa@ucsd.edu)
-\\A08, Stuart Geiger
+
+A08, Stuart Geiger
 
 **What is the most interesting topic covered in your domain this quarter?**
 The most interesting topic covered in my domain this quarter has been the variability in LLMs when discovering biases. These studies are ever-changing because new models are coming out constantly so the outcome is different every time we run the model.
